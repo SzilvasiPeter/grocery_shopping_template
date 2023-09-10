@@ -51,7 +51,7 @@ For help getting started with Flutter, view the [online documentation](https://f
 
 Do you want contributing to this project?
 
-Perfect! Please go to the [contribution guidelines]().
+Perfect! Please go to the [Contributing Guidelines](CONTRIBUTING.md).
 
 # LICENSE
 
