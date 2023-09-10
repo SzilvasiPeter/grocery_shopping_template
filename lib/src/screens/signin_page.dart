@@ -3,7 +3,7 @@ import 'package:page_transition/page_transition.dart';
 
 import '../shared/styles.dart';
 import '../shared/colors.dart';
-import '../shared/inputFields.dart';
+import '../shared/input_fields.dart';
 import './singup_page.dart';
 import './dashboard.dart';
 
