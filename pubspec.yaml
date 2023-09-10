@@ -1,0 +1,50 @@
+name: fryo
+description: A food ordering app template kit.
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.1.1 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.6
+  flutter_rating_bar: ^4.0.1
+  page_transition: ^2.0.9
+
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^2.0.0
+  
+# The following section is specific to Flutter packages.
+flutter:
+  uses-material-design: true
+  assets:
+    - images/akara.png
+    - images/coca-cola.png
+    - images/hamburger.png
+    - images/lemonade.png
+    - images/pancake.png
+    - images/pasta.png
+    - images/strawberry.png
+    - images/tequila.png
+    - images/vodka.png
+    - images/welcome.png
+  fonts:
+    - family: Poppins
+      fonts:
+        - asset: fonts/Poppins-Regular.ttf
+        - asset: fonts/Poppins-Medium.ttf
+        - asset: fonts/Poppins-Bold.ttf
+          weight: 700
+    - family: Pacifico
+      fonts:
+        - asset: fonts/Pacifico.ttf
+    - family: Fryo
+      fonts:
+        - asset: fonts/Fryo.ttf
